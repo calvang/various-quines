@@ -1,0 +1,1 @@
+q="print(\"q=\$(repr(q)); \$q\")"; print("q=$(repr(q)); $q")

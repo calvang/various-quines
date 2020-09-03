@@ -1,0 +1,1 @@
+q="print(\"q=\$(repr(q)); eval(Meta.parse(q))\")"; eval(Meta.parse(q))
