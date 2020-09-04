@@ -1,0 +1,1 @@
+q="q=%s; print(q%%(chr(34)+q+chr(34))"; print(q%(chr(34)+q+chr(34)))

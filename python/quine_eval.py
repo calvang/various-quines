@@ -1,0 +1,1 @@
+q="print('q=%r; eval(q)' %q)"; eval(q)
